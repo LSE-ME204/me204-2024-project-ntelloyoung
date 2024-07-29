@@ -1,5 +1,5 @@
 # Project MobyGames
-Collect information from the the video games on the first Xbox
+Collect information from the video games on the first Xbox
 
 ## Team
 * Nicolas Tello
