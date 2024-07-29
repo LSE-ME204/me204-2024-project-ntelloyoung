@@ -2,7 +2,7 @@
 
 ### Introduction
 
-I am an Econ student from IE univeristy and I created this for my final project for LSE Summer School ME204 course in July
+I am an Econ student from IE univeristy and I created this for my final project for LSE Summer School ME204 course in July 2024
 
 In this analysis, we explore the data from MobyGames, which is a comprehensive database of video games. We are specifically looking at games from the first Xbox to gain insight into the gamoing industry, such as which game genres were most popular and which developers dominated the games.
 
