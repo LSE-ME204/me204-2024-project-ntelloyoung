@@ -5,7 +5,7 @@ Collect information from the the video games on the first Xbox
 * Nicolas Tello
 * Cagan Dalman
 
-We worked together to collect data, clean it, and it to a database. After that, we went our seperate ways
+We worked together to collect data, clean it, and it to create a database. After that, we went our seperate ways
 
 ## How to replicate
 
