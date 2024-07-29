@@ -155,7 +155,7 @@ dmypy.json
 cython_debug/
 
 # Credentials
-.credientials.json/
+credientials.json/
 
 
 # PyCharm
